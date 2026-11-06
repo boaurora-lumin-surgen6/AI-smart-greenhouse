@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.api_key
+
+# data 只放实验证据 CSV 与图表，运行中产生的临时文件不纳入
+data/*
+!data/experiment_log.csv
+!data/experiment_log_v3_20261027_215408.csv
+!data/figures/
