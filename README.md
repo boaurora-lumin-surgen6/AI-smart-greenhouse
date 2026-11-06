@@ -66,7 +66,7 @@ PCB 设计（嘉立创 EDA，接口板方案，DRC 0 错误）见作品介绍文
 ## 四、快速开始
 
 ```bash
-git clone https://github.com/<your-name>/ai-smart-greenhouse.git
+git clone https://github.com/umaima-a/ai-smart-greenhouse.git
 cd ai-smart-greenhouse
 pip install -r requirements.txt
 ```
